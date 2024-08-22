@@ -1,9 +1,9 @@
-Problem Statement: create as program that can encrypt and decrypt text using the caesar cipher algorithm. allow user to input a message and a shift value to perform encryption and decryption.
+Problem Statement: Create as program that can encrypt and decrypt text using the caesar cipher algorithm. Allow user to input a message and a shift value to perform encryption and decryption.
 
 Coding Language Used: Python
 
 Caesar Ciphewr Encrypt/Decrypt Text:
-This Python program allows you to encrypt and decrypt messages using the Caesar Cipher algorithm. Users can input a message and a shift value to perform the encryption or decryption
+This Python program allows you to encrypt and decrypt messages using the Caesar Cipher algorithm. Users can input a message and a shift value to perform the encryption or decryption.
 
 Features Of Encrypt/Decrypt:
 Encrypt Text: Convert your plaintext message into ciphertext by shifting characters based on the provided shift value.
